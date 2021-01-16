@@ -1,0 +1,5 @@
+name: Test
+main: next.java.repo.Test
+commands:
+  hello:
+    description: hello commands
